@@ -5,9 +5,11 @@
 - *Esiehto;* Käyttäjä on kirjautunut sivustolle
 - *Jälkiehto;* Käyttäjä pystyi katsomaan äänestyksen tilanteen
 - *Käyttötapauksen kulku;
-	1. Käyttäjä 
-	2. 
-	3. 
+	1. Käyttäjä kirjautuu sivulle
+	2. Selaa äänestyksiä
+	3. Valitsee ja avaa mielesen äänestyksen
+	4. Katsoo äänestystilanteen
+	5. Poistuu äänestyksestä
 - *Poikkeiksellinen toiminta:
-	3a. 
+	3a. Valituun äänestykseen ei ole annettu ääniä
 

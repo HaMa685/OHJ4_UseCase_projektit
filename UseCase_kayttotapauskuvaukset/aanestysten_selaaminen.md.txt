@@ -1,13 +1,13 @@
 ## Käyttötapauksen nimi; Äänestysten selaaminen
 
 - *Käyttäjät;* käyttäjä, sivun ylläpitäjä
-- *Laukaisija;* käyttäjän mielenkiinto äänestystä kohtaan
-- *Esiehto;* 
-- *Jälkiehto;* 
+- *Laukaisija;* käyttäjän mielenkiinto äänestystä kohtaan, ylläpitäjän tarve seurata äänestyksiä
+- *Esiehto;* On kirjauduttu sivustolle
+- *Jälkiehto;* kätyyäjä ja ylläpitäjä onnistuivat selaamaan haluamiaan äänestyksiä
 - *Käyttötapauksen kulku;
-	1. 
-	2. 
-	3. 
-	4. 
-- *Poikkeiksellinen toiminta:
-	4a. 
+	1. Kirjaudutaan sivulle
+	2. Sivulla näkyvissä äänestykset aiheryhmittäin
+	3. Etsitään kiinnostavia äänestyksiä katseltavaksi
+		3. Ylläpitäjä seuraa äänestysten tilanteita
+- *Poikkeuksellinen toiminta:
+	3a. Haluttu äänestys ei avaudu

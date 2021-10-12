@@ -2,7 +2,7 @@
 
 - *Käyttäjät;* käyttäjä
 - *Laukaisija;* käyttäjän mielenkiinto äänestystä kohtaan
-- *Esiehto;* käyttäjä on hakeutunut haluamalleen sivustolle
+- *Esiehto;* käyttäjä on hakeutunut ja kirjautunut haluamalleen sivustolle
 - *Jälkiehto;* käyttäjä on löytänyt mielesen äänestyksen
 - *Käyttötapauksen kulku;
 	1. Käyttäjä on avannut haluamansa sivuston

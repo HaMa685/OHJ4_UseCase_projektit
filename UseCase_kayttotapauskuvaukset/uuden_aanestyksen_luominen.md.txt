@@ -1,11 +1,11 @@
 ## Käyttötapauksen nimi; Uuden äänestyksen luominen
 
-- *Käyttäjät;* käyttäjä, sivun ylläpitäjä
-- *Laukaisija;* käyttäjän mielenkiinto äänestystä kohtaan
-- *Esiehto;* 
-- *Jälkiehto;* 
+- *Käyttäjät;* sivun ylläpitäjä
+- *Laukaisija;* tarve uudelle äänestykselle
+- *Esiehto;* ylläpitäjän oikeudet
+- *Jälkiehto;* lisätty uusi äänestys
 - *Käyttötapauksen kulku;
-	1. 
+	1. Ylläpitäjä on kirjautunut sivulle
 	2. 
 	3. 
 	4. 
