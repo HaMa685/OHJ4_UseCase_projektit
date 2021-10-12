@@ -1,0 +1,13 @@
+## Käyttötapauksen nimi; Äänestystilanteen katsominen
+
+- *Käyttäjät;* käyttäjä
+- *Laukaisija;* käyttäjän mielenkiinto äänestystä kohtaan
+- *Esiehto;* Käyttäjä on kirjautunut sivustolle
+- *Jälkiehto;* Käyttäjä pystyi katsomaan äänestyksen tilanteen
+- *Käyttötapauksen kulku;
+	1. Käyttäjä 
+	2. 
+	3. 
+- *Poikkeiksellinen toiminta:
+	3a. 
+

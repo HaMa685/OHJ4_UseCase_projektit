@@ -1,0 +1,16 @@
+## Käyttötapauksen nimi; Äänestäminen
+
+- *Käyttäjät;* käyttäjä
+- *Laukaisija;* tahto äänestää ko äänestyksessä
+- *Esiehto;* käyttäjä on valinnut mieleisen äänestyksen
+- *Jälkiehto;* käyttäjä sai äänestettyä
+- *Käyttötapauksen kulku;
+	1. Käyttäjä on valinnut haluamansa äänestyksen.
+	2. Sivusto avaa äänestuksen.
+	3. Käyttäjä äänestää
+	4. Annettu ääni tallentuu 
+	5. Käyttäjä poistuu äänestyksestä
+- *Poikkeiksellinen toiminta:
+	3a. Äänestäminen ei onnistu, jos käyttäjä on jo äänestänyt ko äänestyksessä
+	4a. Käyttäjän antama ääni ei tallennu
+

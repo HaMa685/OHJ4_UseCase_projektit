@@ -1,0 +1,13 @@
+## Käyttötapauksen nimi; Äänestysten selaaminen
+
+- *Käyttäjät;* käyttäjä, sivun ylläpitäjä
+- *Laukaisija;* käyttäjän mielenkiinto äänestystä kohtaan
+- *Esiehto;* 
+- *Jälkiehto;* 
+- *Käyttötapauksen kulku;
+	1. 
+	2. 
+	3. 
+	4. 
+- *Poikkeiksellinen toiminta:
+	4a. 

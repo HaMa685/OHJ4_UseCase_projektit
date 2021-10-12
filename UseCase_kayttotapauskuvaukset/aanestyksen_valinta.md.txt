@@ -1,0 +1,16 @@
+## Käyttötapauksen nimi; Äänestyksen valinta
+
+- *Käyttäjät;* käyttäjä
+- *Laukaisija;* käyttäjän mielenkiinto äänestystä kohtaan
+- *Esiehto;* käyttäjä on hakeutunut haluamalleen sivustolle
+- *Jälkiehto;* käyttäjä on löytänyt mielesen äänestyksen
+- *Käyttötapauksen kulku;
+	1. Käyttäjä on avannut haluamansa sivuston
+	2. Käyttäjä kirjautuu sivulle
+	3. Sivulla näkyvissä äänestyksiä aiheryhmittäin
+	4. Käyttäjä valitsee haluamansa äänestyksen
+- *Poikkeiksellinen toiminta:
+	4a. Käyttäjä ei voi valita äänestystä, jonka äänestysaika on päättynyt
+
+
+
