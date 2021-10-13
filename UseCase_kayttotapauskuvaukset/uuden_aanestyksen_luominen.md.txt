@@ -6,8 +6,8 @@
 - *Jälkiehto;* lisätty uusi äänestys
 - *Käyttötapauksen kulku;
 	1. Ylläpitäjä on kirjautunut sivulle
-	2. 
-	3. 
-	4. 
-- *Poikkeiksellinen toiminta:
-	4a. 
+	2. Ylläpitäjä lisää sovellukseen uuden äänestyksen
+	3. Sovellus lisää uuden äänestyksen käyttäjien äänestettäväksi
+	4. Ylläpitäjä poistuu  
+- *Poikkeuksellinen toiminta:
+	3a. Uuden äänestyksen lisääminen ei onnistu 

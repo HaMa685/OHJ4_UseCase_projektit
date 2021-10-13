@@ -5,9 +5,9 @@
 - *Esiehto;* On kirjauduttu sivustolle
 - *Jälkiehto;* kätyyäjä ja ylläpitäjä onnistuivat selaamaan haluamiaan äänestyksiä
 - *Käyttötapauksen kulku;
-	1. Kirjaudutaan sivulle
-	2. Sivulla näkyvissä äänestykset aiheryhmittäin
-	3. Etsitään kiinnostavia äänestyksiä katseltavaksi
-		3. Ylläpitäjä seuraa äänestysten tilanteita
+	1. Kirjaudutaan Sovellukseen
+	2. Sovellus avaa näkymän äänestyksistä aiheryhmittäin
+	3. Käyttäjä tai ylläpitäjä etsii kiinnostavia äänestyksiä katseltavaksi
+	4. Sovellus avaa ja sulkee äänestyksiä valintojen mukaan palaten näkymään äänestyksistä	
 - *Poikkeuksellinen toiminta:
 	3a. Haluttu äänestys ei avaudu

@@ -5,11 +5,12 @@
 - *Esiehto;* käyttäjä on valinnut mieleisen äänestyksen
 - *Jälkiehto;* käyttäjä sai äänestettyä
 - *Käyttötapauksen kulku;
-	1. Käyttäjä on valinnut haluamansa äänestyksen.
-	2. Sivusto avaa äänestuksen.
+	1. Käyttäjä on valinnut haluamansa äänestyksen (Äänestyksen valinta --> äänestäminen)
+	2. Sovellus avaa valitun äänestyksen
 	3. Käyttäjä äänestää
-	4. Annettu ääni tallentuu 
+	4. Sovellus tallentaa käyttäjän antaman äänen ja ilmoittaa äänestyksen onnistuneen
 	5. Käyttäjä poistuu äänestyksestä
+	6. Sovellus palaa näkymään äänestyksistä
 - *Poikkeiksellinen toiminta:
 	3a. Äänestäminen ei onnistu, jos käyttäjä on jo äänestänyt ko äänestyksessä
 	4a. Käyttäjän antama ääni ei tallennu

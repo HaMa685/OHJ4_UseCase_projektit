@@ -1,13 +1,18 @@
 ## Käyttötapauksen nimi; Äänestyksen poistaminen
 
 - *Käyttäjät;* sivun ylläpitäjä
-- *Laukaisija;* 
-- *Esiehto;* 
-- *Jälkiehto;* 
+- *Laukaisija;* Tarve poistaa äänestys sovelluksesta
+- *Esiehto;* Ylläpitäjä on kirjautunut sovellukseen
+- *Jälkiehto;* Äänestys on poistettu sovelluksesta
 - *Käyttötapauksen kulku;
-	1. 
-	2. 
-	3. 
-	4. 
+	1. Ylläpitäjä kirjautuu sovellukseen
+	2. Sovellus näyttää äänestykset
+	3. Ylläpitäjä valitsee äänestyksen
+	4. Sovellus avaa äänestyksen
+	5. Ylläpitäjä poistaa äänestyksen
+	6. Sovellus varmistaa ylläpitäjältä poistetaanko sovellus
+	7. Ylläpitäjä vahvistaa poiston
+	8. Äänestys poistuu sovelluksesta
+	9. Sovellus palaa äänestykset näkymään
 - *Poikkeiksellinen toiminta:
-	4a. 
+	8a. Äänestyksen poistaminen ei onnistu 

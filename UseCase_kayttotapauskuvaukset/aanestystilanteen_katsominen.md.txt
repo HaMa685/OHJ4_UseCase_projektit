@@ -6,10 +6,13 @@
 - *Jälkiehto;* Käyttäjä pystyi katsomaan äänestyksen tilanteen
 - *Käyttötapauksen kulku;
 	1. Käyttäjä kirjautuu sivulle
-	2. Selaa äänestyksiä
-	3. Valitsee ja avaa mielesen äänestyksen
-	4. Katsoo äänestystilanteen
-	5. Poistuu äänestyksestä
+	2. Sovellus avaa näkymän äänestyksistä
+	3. Käyttäjä selaa äänestyksiä
+	4. Käyttäjä valitsee ja avaa mielesen äänestyksen
+	5. Sovellus tarjoaa mahdollisuuden katsoa äänestystilanteen
+	6. Käyttäjä katsoo äänestystilanteen
+	7. Poistuu äänestyksestä
+	8. Sovellus palaa näkymään äänestyksistä
 - *Poikkeiksellinen toiminta:
-	3a. Valituun äänestykseen ei ole annettu ääniä
+	5a. Valituun äänestykseen ei ole annettu ääniä
 

@@ -2,15 +2,17 @@
 
 - *Käyttäjät;* käyttäjä
 - *Laukaisija;* käyttäjän mielenkiinto äänestystä kohtaan
-- *Esiehto;* käyttäjä on hakeutunut ja kirjautunut haluamalleen sivustolle
+- *Esiehto;* käyttäjä on hakeutunut ja kirjautunut sivustolle
 - *Jälkiehto;* käyttäjä on löytänyt mielesen äänestyksen
 - *Käyttötapauksen kulku;
 	1. Käyttäjä on avannut haluamansa sivuston
-	2. Käyttäjä kirjautuu sivulle
-	3. Sivulla näkyvissä äänestyksiä aiheryhmittäin
+	2. Käyttäjä kirjautuu sovellukseen
+	3. Sovellus avaa näkymän äänestyksistä aiheryhmittäin
 	4. Käyttäjä valitsee haluamansa äänestyksen
+	5. Sovellus avaa vaitun äänestyksen
 - *Poikkeiksellinen toiminta:
-	4a. Käyttäjä ei voi valita äänestystä, jonka äänestysaika on päättynyt
+	2a. Käyttäjä ei ole kirjautunut sovellukseen
+	
 
 
 
