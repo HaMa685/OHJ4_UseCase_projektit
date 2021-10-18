@@ -4,9 +4,83 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+    <link rel="stylesheet" href="style.css">
     <title>Ylläpitö</title>
 </head>
 <body>
-    hui
+            <!--Navbar-->
+            <nav class="navbar navbar-expand-lg bg-dark navbar-dark py-2">
+                <div class="container">
+                    <a href="#" class="navbar-brand">Nyt<span class="text-warning">Äänestetään!</span></a>          
+                    <button 
+                        class="navbar-toggler" 
+                        type="button" 
+                        data-bs-toggle="collapse" 
+                        data-bs-target="#navmenu">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+                    <div class="collapse navbar-collapse" id="navmenu">
+                        <ul class="navbar-nav ms-auto">
+                            <li class="nav-item">
+                                <a href="index.html" class="nav-link">Etusivu</a>
+                            </li>
+                            <li class="nav-item">
+                                <a href="kayttajan_nakyma.html" class="nav-link">Äänestykset</a>
+                            </li>
+                            <li class="nav-item">
+                                <a href="#yllapitajan_nakyma.html" class="nav-link">Ylläpitäjän sivu</a>
+                            </li>
+
+                            <!--
+                            <li class="nav-item">
+                                <a href="rekisteroidy.html" class="nav-link">Rekisteröidy</a>
+                            </li>
+                            -->
+                            
+                            <a class="btn btn-warning" href="index.html" role="button">Kirjaudu ulos</a>
+                        </ul>
+                    </div> 
+                </div>
+            </nav>
+        
+        <section class="bg-warning text-dark text-center p-4 ">
+            <div class="container">
+                <h1><span class="text-light">Nyt</span>Äänestetään!</h1>
+                <p class=" my-4 text-dark">Hyvin suuniteltu on puoliksi tehty!</p>
+            </div>       
+        </section>
+
+        <section class="bg-dark text-warning p-5">
+            <div class="container">
+            <div class="row">
+                <div class="col-sm-5">
+                  <div class="card bg-warning text-dark">
+                    <div class="card-body">
+                      <h5 class="card-title">Lisää uusi äänestys</h5>
+                      <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
+                      <a href="#" class="btn btn-primary">Lisää uusi</a>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-sm-5">
+                  <div class="card bg-warning text-dark">
+                    <div class="card-body">
+                      <h5 class="card-title">Poista äänestys</h5>
+                      <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
+                      <a href="#" class="btn btn-primary">Poista</a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+        </section>
+
+
+        <footer class="bg-warning text-dark text-center p-2">
+            Copyright &copy; 2021 HaMa
+        </footer>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
 </body>
 </html>
