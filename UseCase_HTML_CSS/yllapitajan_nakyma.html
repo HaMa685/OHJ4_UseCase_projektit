@@ -54,20 +54,37 @@
         <section class="bg-dark text-warning p-5">
             <div class="container">
             <div class="row">
-                <div class="col-sm-5">
+                <div class="col-sm-6">
                   <div class="card bg-warning text-dark">
                     <div class="card-body">
-                      <h5 class="card-title">Lisää uusi äänestys</h5>
-                      <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
+                      <h5 class="card-title">Lisää uusi äänestys</h5>                     
+                      <div class="input-group mb-3">
+                        <input type="file" class="form-control" id="inputGroupFile02">
+                        <label class="input-group-text" for="inputGroupFile02">Lataa</label>
+                      </div>
                       <a href="#" class="btn btn-primary">Lisää uusi</a>
                     </div>
                   </div>
                 </div>
-                <div class="col-sm-5">
+                <div class="col-sm-6">
                   <div class="card bg-warning text-dark">
                     <div class="card-body">
                       <h5 class="card-title">Poista äänestys</h5>
-                      <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
+                      <p class="card-text">Poista äänestys sovelluksesta.</p>
+                      <div class="input-group">
+                        <select class="form-select" id="inputGroupSelect04" aria-label="Example select with button addon">
+                          <option selected>Valitse poistettava äänestys...</option>
+                          <option value="1">Äänestys #1</option>
+                          <option value="2">Äänestys #2</option>
+                          <option value="3">Äänestys #3</option>
+                        </select>
+                      </div>
+                      <div class="form-check">
+                        <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault">
+                        <label class="form-check-label" for="flexCheckDefault">
+                          Haluatko varmasti poistaa tämän äänestyksen? 
+                        </label>
+                      </div>
                       <a href="#" class="btn btn-primary">Poista</a>
                     </div>
                   </div>
